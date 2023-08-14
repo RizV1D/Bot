@@ -1,0 +1,2 @@
+# Bot
+PKG install bash
